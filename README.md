@@ -1,5 +1,5 @@
 Hola, soy Germán 👋
-Soy un desarrollador Fullstack web apasionado por el código y el diseño. Me gusta crear sitios web elegantes, funcionales y accesibles. 
+Soy un desarrollador Fullstack jr apasionado por el código y el diseño. Me gusta crear sitios web elegantes, funcionales y accesibles. 
 Tengo experiencia en HTML, CSS, JavaScript, Angular, Node.js, Java y MySQL.
 
 Algunos de mis proyectos 🚀
@@ -13,6 +13,7 @@ Mis habilidades 🛠️
 Lenguajes: HTML, CSS, JavaScript, Java, SQL
 
 Frameworks: Angular, Bootstrap, Spring Boot
+
 Bases de datos: MongoDB, MySQL, PostgreSQL
 
 Herramientas: Git, GitHub, VS Code, npm, Heroku
@@ -23,7 +24,7 @@ Aprender nuevas tecnologías y mejorar mis habilidades
 Colaborar con otros desarrolladores en proyectos open source
 Participar en hackathons y competencias de programación
 Leer libros sobre ciencia ficción, fantasía y filosofía
-Escuchar música de clasica, rap y jazz
+Escuchar música clasica, rap y jazz.
 
 Contáctame 📫
 
