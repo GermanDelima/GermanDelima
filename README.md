@@ -16,7 +16,7 @@ Frameworks: Angular, Bootstrap, Spring Boot
 
 Bases de datos: MongoDB, MySQL, PostgreSQL
 
-Herramientas: Git, GitHub, VS Code, npm, Heroku
+Herramientas: Git, GitHub, VS Code, netbeanst, npm, Heroku
 
 Mis intereses 🌱
 
