@@ -1,4 +1,4 @@
-Hola, soy Germán 👋
+Hola, soy Josías Germán 👋
 Soy un desarrollador Fullstack jr apasionado por el código y el diseño. Me gusta crear sitios web elegantes, funcionales y accesibles. 
 Tengo experiencia en HTML, CSS, JavaScript, Angular, Node.js, Java y MySQL.
 
