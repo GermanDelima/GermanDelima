@@ -6,7 +6,6 @@ Algunos de mis proyectos 🚀
 
 [pendiente]: Un blog donde comparto mis experiencias, aprendizajes y consejos sobre desarrollo web y otras tecnologías.
 [pendiente]: Una tienda online de productos ecológicos, con carrito de compras, pasarela de pago y panel de administración.
-[Generador de memes]: Una aplicación web que te permite crear memes divertidos con tus propias imágenes y textos.
 
 Mis habilidades 🛠️
 
@@ -14,7 +13,7 @@ Lenguajes: HTML, CSS, JavaScript, Java, SQL
 
 Frameworks: Angular, Bootstrap, Spring Boot
 
-Bases de datos: MongoDB, MySQL, PostgreSQL
+Bases de datos: MySQL, PostgreSQL
 
 Herramientas: Git, GitHub, VS Code, netbeanst, npm, Heroku
 
@@ -23,8 +22,8 @@ Mis intereses 🌱
 Aprender nuevas tecnologías y mejorar mis habilidades
 Colaborar con otros desarrolladores en proyectos open source
 Participar en hackathons y competencias de programación
-Leer libros sobre ciencia ficción, fantasía y filosofía
-Escuchar música clasica, rap y jazz.
+Leer libros sobre filosofía 
+Escuchar rap/hiphop y blues.
 
 Contáctame 📫
 
