@@ -4,18 +4,18 @@ Tengo experiencia en HTML, CSS, JavaScript, Angular, Spring, Java y MySQL.
 
 Algunos de mis proyectos 🚀
 
-[pendiente]: Un blog donde comparto mis experiencias, aprendizajes y consejos sobre desarrollo web y otras tecnologías.
-[pendiente]: Una tienda online de productos ecológicos, con carrito de compras, pasarela de pago y panel de administración.
+[hecho]: Un un simulador de acciones que replicará un sistema de Homebanking denominado "Spring Banking" .
+[hecho]: Una plataforma de oradores! proporcionar un espacio para que los oradores de todos los niveles y de todas las disciplinas compartan sus ideas, inspiren a otros.
 
 Mis habilidades 🛠️
 
 Lenguajes: HTML, CSS, JavaScript, Java, SQL
 
-Frameworks: Angular, Bootstrap, Spring Boot
+Frameworks: Angular, Bootstrap5, Spring Boot, Hibernate
 
-Bases de datos: MySQL, PostgreSQL
+Bases de datos: MySQL
 
-Herramientas: Git, GitHub, VS Code, netbeanst, Intelli Jidea, 
+Herramientas: Git, GitHub, VS Code, netbeanst, Intelli Jidea, Postman, Draw.io, Fl Studio, Adobe Audition, Canva.
 
 Mis intereses 🌱
 
