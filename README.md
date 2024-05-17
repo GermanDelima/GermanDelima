@@ -1,6 +1,6 @@
 Hola, soy Josías Germán 👋
 Soy un desarrollador Fullstack jr apasionado por el código y el diseño. Me gusta crear sitios web elegantes, funcionales y accesibles. 
-Tengo experiencia en HTML, CSS, JavaScript, Angular, Spring, Java y MySQL.
+Tengo experiencia en HTML, CSS, JavaScript, Angular, Spring MVC, Spring Security, Java8 y MySQL.
 
 Algunos de mis proyectos 🚀
 
@@ -9,9 +9,9 @@ Algunos de mis proyectos 🚀
 
 Mis habilidades 🛠️
 
-Lenguajes: HTML, CSS, JavaScript, Java, SQL
+Lenguajes: HTML, CSS, JavaScript, Java8-17, SQL
 
-Frameworks: Angular, Bootstrap5, Spring Boot, Hibernate
+Frameworks: Angular, Bootstrap5, Spring, Hibernate, JPA
 
 Bases de datos: MySQL
 
