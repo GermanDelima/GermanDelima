@@ -1,5 +1,5 @@
-# 💫 About Me:
-"Currently I am a full stack developer and an advanced student of Higher Technique in Software Development."
+# 💫 Acerca de mí:
+“Actualmente soy desarrollador full stack y estudiante avanzado de Técnica Superior en Desarrollo de Software”.
 
 
 ## 🌐 Socials:
